@@ -1,0 +1,33 @@
+.Elements {
+  margin-top: 30px;
+}
+
+.Element {
+  margin-left: 20px;
+}
+
+@media only screen and (max-width: 700px) {
+  .Element {
+    margin-left: 6px;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .Element {
+    margin-left: 0;
+  }
+}
+
+.search {
+  vertical-align: middle;
+  font-size: large;
+  margin: 8px 10px;
+  padding: 12px 12px;
+  border: 0;
+  outline: 0;
+  background: transparent;
+  border-bottom: 1px solid #ccc;
+  box-sizing: border-box;
+  width: wrap;
+  transition: all .2s ease-out;
+}

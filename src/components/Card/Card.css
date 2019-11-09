@@ -1,0 +1,42 @@
+.Card {
+  margin: 12px;
+  display: inline-block;
+  width: 24.9999%;
+}
+
+@media only screen and (max-width: 700px) {
+  .Card {
+    width: 49.99999%;
+    margin: 6px;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .Card {
+    width: 100%;
+    margin: 6px 0 6px 0;
+  }
+}
+
+.Card-element {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.Card-element img {
+    width: 100%;
+    height: 200px;
+}
+
+.complete {
+    object-fit: cover;
+}
+
+.zoom {
+    object-fit: cover;
+}
+
+.Card-description {
+    padding: 15px;
+    text-align: center;
+    color: black;
+}
