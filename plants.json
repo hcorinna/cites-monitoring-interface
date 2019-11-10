@@ -1,0 +1,62 @@
+[
+  {
+    "id": 18189,
+    "annotation": 1,
+    "appendix": "I",
+    "name": "Ariocarpus retusus",
+    "nonscientific names": ["Ariocarpus elongatus"],
+    "images": ["https://i.etsystatic.com/12816893/r/il/f36315/1912774431/il_570xN.1912774431_og0j.jpg"],
+    "alloffers": [
+      {
+	"platform": "ebay",
+	"offers": [
+	{"id": 1, "link": "https://www.etsy.com/sg-en/listing/689556220/ariocarpus-retusus-cactus-succulent", "price": 6.44, "currency": "SGD", "location": "Singapore"}
+		]
+},
+      {
+	"platform": "amazon",
+	"offers": [
+	{"id": 1, "link": "https://www.ebay.com/itm/OR016-Ariocarpus-retusus-cv-Maruibo-3-cm/254411705725?hash=item3b3c1e8d7d:g:CyMAAOSwFNBdwUwF", "price": 29, "currency": "GBP", "location": "Hungary"},
+	{"id": 2, "link": "https://www.ebay.com/itm/162-Ariocarpus-retusus-x-cauliflower-RARE-Seeding-never-graft/264525060791?hash=item3d96ec1ab7:g:4DMAAOSwDIJdxDf9", "price": 35, "currency": "USD", "location": "Thailand"}
+		]
+}
+    ]
+  },
+  {
+    "id": 14520,
+    "annotation": 1,
+    "appendix": "I",
+    "name": "Pediocactus bradyi",
+    "nonscientific names": ["despainii", "winkleri"],
+    "images": ["https://cff2.earth.com/uploads/2017/01/03150037/Pediocactus-bradyi.jpg"],
+    "alloffers": [
+      {
+        "platform": "ebay",
+        "offers": [
+          {"id": 1, "link": "https://www.ebay.com/itm/Pediocactus-bradyi-ssp-winklerorum-RP-132-10-seeds-Kaktus-Kakteen/173973571716?hash=item2881a20884:g:i0sAAOSwz~RdNkdU", "price": 8, "currency": "PLN", "location": "Poland"},
+          {"id": 2, "link": "https://www.ebay.com/itm/Pediocactus-bradyi-ssp-winklerorum-Lz-394-10-seeds-Kaktus-Kakteen/173973570063?hash=item2881a2020f:g:TOAAAOSwW7ldNkbG", "price": 8, "currency": "PLN", "location": "Poland"},
+          {"id": 3, "link": "https://www.ebay.com/itm/Pediocactus-bradyi-ssp-despainii-FH-0100-1-10-seeds-Kaktus-Kakteen/173973565564?hash=item2881a1f07c:g:368AAOSwdtBdNkUa", "price": 8, "currency": "PLN", "location": "Poland"}
+        ]
+      },
+      {"platform": "amazon", "offers": []}
+    ]
+  },
+
+  {
+    "id": 22858,
+    "annotation": 1,
+    "appendix": "I",
+    "name": "Podocarpus parlatorei",
+    "nonscientific names": ["pino", "pino blanco", "pino criollo", "pino de jujuy", "pinio de monte", "pino del cerro", "pino montano", "pino tucumano"],
+    "images": ["https://greenleafnurseries.co.nz/wp-content/uploads/2018/10/podocarpus-parlatorei-500.jpg"],
+    "alloffers": [
+      {
+        "platform": "ebay", "offers": [{"id": 1, "link": "https://www.ebay.com/itm/Pediocactus-bradyi-ssp-winklerorum-RP-132-10-seeds-Kaktus-Kakteen/173973571716?hash=item2881a20884:g:i0sAAOSwz~RdNkdU", "price": 8, "currency": "PLN", "location": "Poland"}]
+      },
+      {
+        "platform": "amazon", "offers": []
+      }
+    ]
+  }
+
+]
