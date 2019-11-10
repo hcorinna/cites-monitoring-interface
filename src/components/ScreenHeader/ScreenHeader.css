@@ -1,17 +1,18 @@
 .Screen-header {
   padding: 20px;
+  padding-top: 100px;
 }
 
 .Screen-title {
   font-size: 2.5em;
 }
 
-@media screen and (max-width: 960px) {
+@media screen and (max-width: 680px) {
   .Screen-header {
-    padding-top: 80px;
+    padding-top: 100px;
   }
 
   .Screen-title {
-    font-size: 2em;
+    font-size: 1.5em;
   }
 }

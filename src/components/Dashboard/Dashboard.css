@@ -1,0 +1,22 @@
+.Home {
+  color: white;
+  height: 100%
+}
+
+.Home-text {
+  position: absolute;
+  width: 80%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 1;
+}
+
+.Background {
+  height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  filter: brightness(30%);
+  -webkit-filter: brightness(30%);
+}

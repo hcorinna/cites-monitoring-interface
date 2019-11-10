@@ -5,7 +5,7 @@ This project was created as part of the Helsinki Zoohackathon 2019. More details
 ## Inspiration
 Our team mascot, Li'l Sebastian, from the popular sitcom Parks and Recreation, represents the importance of monitoring and caring for all of earth's species, particularly those who are often forgotten. We were motivated by the passion that Li'l Sebastian inspired in the citizens of Pawnee and we strive to incite the same levels of passion within the scientific community.
 ## What it does
-To reduce the overall demand of trafficked plants, this tool identifies sellers and offers of CITES listed plant species through popular e-commerce sites, to reduce the amount of manual labour on the part of law enforcement individuals and CITES staff.
+To scale down the overall demand of trafficked plants, this tool identifies sellers and offers of CITES listed plant species through popular e-commerce sites. It intends to reduce the amount of manual labour performed by law enforcement individuals and CITES staff.
 ## How we built it
 We used a scraper to identify the relevant postings on alibaba, which then fed into a json file. The data was then used to populate the Progressive Web App (PWA) built with ReactJS.
 ## Challenges we ran into

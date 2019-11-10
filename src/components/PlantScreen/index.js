@@ -22,7 +22,7 @@ const PlantScreen = ({offers, details}) => {
       <div className="Details-row">
         <div className="Details-column Details-left">
           <img className="Details-gallery" src={details.images[0]} alt={details.name}/>
-          <a href="/offers.json" download>
+          <a href="./offers.json" download>
             <button className="Fab"><i className="fa fa-file-csv"/></button>
           </a>
           <button className="Fab"><i className="fa fa-sync"/></button>

@@ -1,13 +1,5 @@
 .Content {
-  margin-top: 100px;
-  margin-bottom: 50px;
   text-align: center;
-}
-
-@media screen and (max-width: 960px) {
-  .Content {
-    margin-top: 20px;
-  }
 }
 
 .Fab {
