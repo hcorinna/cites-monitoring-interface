@@ -8,9 +8,11 @@ import App from './App';
 import * as serviceWorker from './serviceWorker';
 import { combineReducers } from 'redux'
 
+import names from './data/names.json';
 import plants from './data/plants.json';
 
 const initialState = {
+  names: names,
   plants: plants
 }
 

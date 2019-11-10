@@ -5,9 +5,14 @@ const getPlant = (plants, props) => {
   return plants.find(plant => plant.id == props.match.params.plantId);
 }
 
+const getPlantNames = (names, props) => {
+  return names.find(plantNames => plantNames.id == props.match.params.plantId);
+}
+
 const mapStateToProps = (state, ownProps) => {
   return {
-    plant: getPlant(state.plants, ownProps)
+    plant: getPlant(state.plants, ownProps),
+    names: getPlantNames(state.names, ownProps)
   }
 }
 

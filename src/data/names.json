@@ -1,0 +1,82 @@
+[
+  {
+    "id": 25968,
+    "name": "Araucaria araucana",
+    "nonscientific_names": ["pino de neuquen", "pinon", "Abies araucana", "Araucaria araucana f. virgata", "Araucaria araucana subsp. conguillioensis", "Araucaria araucana var. angustifolia", "Araucaria araucana var. angustifolia", "Araucaria chilensis"]
+  },
+
+  {
+    "id": 14702,
+    "name": "Ariocarpus fissuratus",
+    "nonscientific_names": ["Anhalonium engelmannii", "Anhalonium fissuratum", "Ariocarpus lloydii", "Mammillaria fissurata", "Roseocactus fissuratus", "Roseocactus intermedius", "Roseocactus lloydii"]
+  },
+
+  {
+    "id": 18189,
+    "name": "Ariocarpus retusus",
+    "nonscientific_names": ["Anhalonium areolosum", "Anhalonium elongatum", "Anhalonium furfuraceum", "Anhalonium prismaticum", "Anhalonium pulvilligerum", "Anhalonium retusum"]
+  },
+
+  {
+    "id": 45112,
+    "name": "Ariocarpus trigonus",
+    "nonscientific_names": ["Anhalonium areolosum", "Anhalonium elongatum", "Anhalonium furfuraceum", "Anhalonium prismaticum"]
+  },
+
+  {
+    "id": 28010,
+    "name": "Saussurea costus",
+    "nonscientific_names": ["amaya", "aucklandiae radix", "changal", "changal kustha", "changala", "changalva koshtu", "chob-i-kud", "common aucklandia root", "costus", "costus root", "costus root oil", "goshtam", "mu xiang"]
+  },
+
+  {
+    "id": 27947,
+    "name": "Fitzroya cupressoides",
+    "nonscientific_names": ["alerce", "lahuan", "lahuen", "cupresstellata patagonica", "fitzroya patagonica"]
+  },
+
+  {
+    "id": 28405,
+    "name": "Pilgerodendron uviferum",
+    "nonscientific_names": ["juniperus uvifera", "libocedrus tetragona", "thuja tetragona"]
+  },
+
+  {
+    "id": 24431,
+    "name": "Euphorbia tulearensis",
+    "nonscientific_names": []
+  },
+
+  {
+    "id": 21123,
+    "name": "Fouquieria fasciculata",
+    "nonscientific_names": ["Bronnia spinosa"]
+  },
+
+
+  {
+    "id": 24815,
+    "name": "Dalbergia nigra",
+    "nonscientific_names": ["bahia rosewood", "brazilian rosewood", "cabinua-rajada", "caviuna", "jacaranda", "palisandre", "rio rosewood"]
+  },
+  {
+    "id": 17547,
+    "name": "Aloe bakeri",
+    "nonscientific_names": ["Aloe abyssinica var. percrassa", "Aloe bakeri", "Aloe oligospila"]
+  },
+  {
+    "id": 19220,
+    "name": "Aloe polyphylla",
+    "nonscientific_names": []
+  },
+  {
+    "id": 18515,
+    "name": "Paphiopedilum fowliei",
+    "nonscientific_names": ["Paphiopedilum globulosum", "Paphiopedilum micranthum f. glanzeanum", "Paphiopedilum micranthum f. kienii"]
+  },
+  {
+    "id": 14050,
+    "name": "Paphiopedilum insigne",
+    "nonscientific_names": ["Cypripedium insigne", "Cypripedium insigne var. albomarginatum"]
+  }
+]
