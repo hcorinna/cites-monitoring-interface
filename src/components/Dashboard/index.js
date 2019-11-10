@@ -12,6 +12,9 @@ const Dashboard = ({details}) => {
       alt="Li'l Sebastian"
       />
       <p>We currently have {details.length} plants in our database.</p>
+      <p className="Description">
+        To help reduce the overall demand of trafficked plants, this tool helps to identify sellers and offers of CITES listed plant species through popular e-commerce sites, to reduce the amount of manual labour on the part of law enforcement individuals and CITES staff.
+      </p>
     </div>
   );
 }

@@ -15,6 +15,11 @@ p {
   margin: 10px;
 }
 
+.Description {
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
 :root {
     --main: #6ab04c;
     --accent1: #badc58;
