@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/cites-monitoring-interface/precache-manifest.9d1ec384e4b70de77b49fed1cb32039f.js"
+  "/cites-monitoring-interface/precache-manifest.970a4230713726f863f0bb6c1f866443.js"
 );
 
 self.addEventListener('message', (event) => {
