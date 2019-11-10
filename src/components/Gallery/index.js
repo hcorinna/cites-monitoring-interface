@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import Card from '../Card';
-import Fab from '../Fab';
+import '../../App.css';
 import './Gallery.css';
 
 class EditableGallery extends Component {
@@ -36,6 +36,7 @@ class EditableGallery extends Component {
             })
           }
         </div>
+        <button className="Fab Refresh"><i className="fa fa-sync"/></button>
       </div>
     );
   }

@@ -31,3 +31,10 @@
   width: wrap;
   transition: all .2s ease-out;
 }
+
+.Refresh {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 1;
+}

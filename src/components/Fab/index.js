@@ -1,9 +1,9 @@
 import React from 'react';
 import './Fab.css';
 
-const Fab = ({icon, onClick}) => {
+const Fab = ({icon}) => {
   return (
-    <div><button className="Fab" onClick={onClick}>{icon}</button></div>
+    <div><button className="Fab">{icon}</button></div>
   );
 }
 

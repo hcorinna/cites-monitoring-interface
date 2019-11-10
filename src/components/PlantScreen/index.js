@@ -1,6 +1,6 @@
 import React from 'react';
 import ScreenHeader from '../ScreenHeader';
-import Fab from '../Fab';
+import '../../App.css';
 import './PlantScreen.css';
 
 const PlantScreen = ({plant}) => {
@@ -11,8 +11,9 @@ const PlantScreen = ({plant}) => {
         <div className="Details-column Details-left">
           <img className="Details-gallery" src={plant.images[0]} alt={plant.name}/>
           <a href="/plants.json" download>
-            <Fab icon={<i className="fa fa-file-csv"/>}/>
+            <button className="Fab"><i className="fa fa-file-csv"/></button>
           </a>
+          <button className="Fab"><i className="fa fa-sync"/></button>
         </div>
         <div className="Details-column Details-right">
           <h3>ID</h3>
@@ -35,7 +36,7 @@ const PlantScreen = ({plant}) => {
                           <p>
                             {p.offers.map(offer => {
                               return <div>
-                                        <a href={offer.link} target="_blank">{offer.price} {offer.currency}</a>
+                                        <a href={offer.link} target="_blank" rel="noopener noreferrer">{offer.price} {offer.currency}</a>
                                         <button className="flag"><i className="fa fa-flag"/></button>
                                       </div>
                             })}
