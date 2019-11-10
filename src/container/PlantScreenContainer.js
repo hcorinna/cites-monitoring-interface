@@ -1,18 +1,20 @@
 import { connect } from 'react-redux'
 import PlantScreen from '../components/PlantScreen'
 
-const getPlant = (plants, props) => {
-  return plants.find(plant => plant.id == props.match.params.plantId);
+const getPlantOffers = (offers, props) => {
+  var plantOffers = offers.find(plantOffer => plantOffer.id == props.match.params.plantId);
+  plantOffers = plantOffers !== undefined? plantOffers : {"id": props.match.params.plantId, "all_offers": []};
+  return plantOffers;
 }
 
-const getPlantNames = (names, props) => {
-  return names.find(plantNames => plantNames.id == props.match.params.plantId);
+const getPlantDetails = (details, props) => {
+  return details.find(plantDetails => plantDetails.id == props.match.params.plantId);
 }
 
 const mapStateToProps = (state, ownProps) => {
   return {
-    plant: getPlant(state.plants, ownProps),
-    names: getPlantNames(state.names, ownProps)
+    offers: getPlantOffers(state.offers, ownProps),
+    details: getPlantDetails(state.details, ownProps)
   }
 }
 

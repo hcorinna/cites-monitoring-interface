@@ -3,12 +3,12 @@ import { withRouter } from 'react-router-dom'
 import ScreenHeader from '../ScreenHeader';
 import Gallery from '../Gallery';
 
-const PlantsScreen = ({plants, removePlant, history}) => {
-  const elements = plants.map(plant => ({
-    id: plant.id,
-    name: plant.name,
-    path: "/plant/" + plant.id,
-    image: plant.images[0]
+const PlantsScreen = ({details}) => {
+  const elements = details.map(plantDetails => ({
+    id: plantDetails.id,
+    name: plantDetails.name,
+    path: "/plant/" + plantDetails.id,
+    image: plantDetails.images !== undefined? plantDetails.images[0] : "https://www.westminster.ac.uk/sites/default/public-files/styles/panel_image_4_4_1200px_/public/general-images/Plant-edited.jpg?itok=cOXgyF9j"
   }));
   return (
     <div>

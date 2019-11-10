@@ -3,7 +3,7 @@ import PlantsScreen from '../components/PlantsScreen'
 
 const mapStateToProps = state => {
   return {
-    plants: state.plants
+    details: state.details
   }
 }
 

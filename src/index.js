@@ -8,12 +8,20 @@ import App from './App';
 import * as serviceWorker from './serviceWorker';
 import { combineReducers } from 'redux'
 
-import names from './data/names.json';
-import plants from './data/plants.json';
+import details from './data/details.json';
+import offers from './data/offers.json';
+
+function getOffers() {
+  return fetch('https://raw.githubusercontent.com/alintulu/LilSebastian/master/output/offers3plants.json')
+    .then(response => response.json())
+    .then(data => {
+      return data;
+    });
+}
 
 const initialState = {
-  names: names,
-  plants: plants
+  details: details,
+  offers: offers
 }
 
 const store = createStore(combineReducers({}), initialState);
