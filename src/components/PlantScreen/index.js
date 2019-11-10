@@ -112,7 +112,7 @@ const PlantScreen = ({offers, details}) => {
                             <tr>
                               <th>Price</th>
                               <th>Minimum orders</th>
-                              <th>Report link</th>
+                              <th>Flag link</th>
                             </tr>
                               {p.offers.map(offer => {
                                 return <tr>

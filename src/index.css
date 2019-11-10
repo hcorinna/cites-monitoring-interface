@@ -16,8 +16,17 @@ p {
 }
 
 .Description {
-  padding-left: 100px;
-  padding-right: 100px;
+  padding-left: 200px;
+  padding-right: 200px;
+  padding-top: 20px;
+}
+
+@media only screen and (max-width: 960px) {
+  .Description {
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 5px;
+  }
 }
 
 :root {

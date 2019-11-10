@@ -55,3 +55,7 @@
     width: 100%;
   }
 }
+
+th, td {
+  padding-right: 20px;
+}
