@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/cites-monitoring-interface/static/css/main.d5afb285.chunk.css",
-    "main.js": "/cites-monitoring-interface/static/js/main.cf7434d5.chunk.js",
-    "main.js.map": "/cites-monitoring-interface/static/js/main.cf7434d5.chunk.js.map",
+    "main.js": "/cites-monitoring-interface/static/js/main.9432dd57.chunk.js",
+    "main.js.map": "/cites-monitoring-interface/static/js/main.9432dd57.chunk.js.map",
     "runtime-main.js": "/cites-monitoring-interface/static/js/runtime-main.c30d15b6.js",
     "runtime-main.js.map": "/cites-monitoring-interface/static/js/runtime-main.c30d15b6.js.map",
     "static/js/2.21387ca1.chunk.js": "/cites-monitoring-interface/static/js/2.21387ca1.chunk.js",
     "static/js/2.21387ca1.chunk.js.map": "/cites-monitoring-interface/static/js/2.21387ca1.chunk.js.map",
     "index.html": "/cites-monitoring-interface/index.html",
-    "precache-manifest.54c0fc3de617b75c94a163afe7d24b99.js": "/cites-monitoring-interface/precache-manifest.54c0fc3de617b75c94a163afe7d24b99.js",
+    "precache-manifest.ed4f04423003b8aabdbea5bf97805c43.js": "/cites-monitoring-interface/precache-manifest.ed4f04423003b8aabdbea5bf97805c43.js",
     "service-worker.js": "/cites-monitoring-interface/service-worker.js",
     "static/css/main.d5afb285.chunk.css.map": "/cites-monitoring-interface/static/css/main.d5afb285.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.c30d15b6.js",
     "static/js/2.21387ca1.chunk.js",
     "static/css/main.d5afb285.chunk.css",
-    "static/js/main.cf7434d5.chunk.js"
+    "static/js/main.9432dd57.chunk.js"
   ]
 }
