@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://hcorinna.github.io/cites-monitoring-interface",
   "dependencies": {
-    "plotly.js": "^1.51.1",
+    "plotly.js": "^2.25.2",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
     "react-plotly.js": "^2.4.0",
